@@ -18773,6 +18773,11 @@
 							<Namespace
 								Name='col_lifeday_08'
 							>
+                <ImageStyle
+									Name='lifeday_badge_20'
+									Source='ui_new_icons_temp12'
+									SourceRect='17,17,64,64'
+								/>
 								<ImageStyle
 									Name='lifeday_badge_11'
 									Source='ui_new_icons_temp9'
