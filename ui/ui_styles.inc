@@ -13371,61 +13371,6 @@
 				Name='buffs'
 			>
 				<ImageStyle
-					Name='of_adv_paint_debuff'
-					Source='ui_new_icons_temp'
-					SourceRect='305,17,352,64'
-				/>
-				<ImageStyle
-					Name='of_adv_paint_expose'
-					Source='ui_new_icons_temp'
-					SourceRect='353,17,400,64'
-				/>
-				<ImageStyle
-					Name='wod_unstoppable_attack'
-					Source='ui_new_icons_temp2'
-					SourceRect='17,257,64,304'
-				/>
-				<ImageStyle
-					Name='wod_lethal_reflexes'
-					Source='ui_new_icons_temp4'
-					SourceRect='401,449,448,496'
-				/>
-				<ImageStyle
-					Name='wod_adaptive_bio'
-					Source='ui_new_icons_temp7'
-					SourceRect='161,305,208,352'
-				/>
-				<ImageStyle
-					Name='wod_super_strength'
-					Source='ui_new_icons_temp7'
-					SourceRect='17,401,64,448'
-				/>
-				<ImageStyle
-					Name='wod_razor_claws'
-					Source='ui_new_icons_temp8'
-					SourceRect='161,17,208,64'
-				/>
-				<ImageStyle
-					Name='wod_mutant_rancor'
-					Source='ui_new_icons_temp8'
-					SourceRect='17,65,64,112'
-				/>
-				<ImageStyle
-					Name='tcg_series8_wampa_arm'
-					Source='ui_new_icons_temp11'
-					SourceRect='305,161,352,208'
-				/>
-				<ImageStyle
-					Name='scary_halloween_hand'
-					Source='ui_new_icons_temp10'
-					SourceRect='17,353,64,400'
-				/>
-				<ImageStyle
-					Name='duel_recorder'
-					Source='ui_new_icons_temp10'
-					SourceRect='256,449,305,497'
-				/>
-				<ImageStyle
 					Name='loveday_hearts'
 					Source='ui_new_icons_temp10'
 					SourceRect='160,353,209,401'
@@ -14073,9 +14018,6 @@
 					Name='stasisRecourse'
 					Source='ui_new_icons_temp8'
 					SourceRect='114,257,161,304'
-				/>
-				<DataSource
-					Name='New DataSource'
 				/>
 			</Namespace>
 			<Namespace
@@ -16929,15 +16871,6 @@
 				bactaToss_1='bactaToss'
 				bactaToss_2='bactaToss'
 				bandage_1='bandage'
-				bandflourish+1='/styles.icon.music.band_flourish1'
-				bandflourish+2='/styles.icon.music.band_flourish2'
-				bandflourish+3='/styles.icon.music.band_flourish3'
-				bandflourish+4='/styles.icon.music.band_flourish4'
-				bandflourish+5='/styles.icon.music.band_flourish5'
-				bandflourish+6='/styles.icon.music.band_flourish6'
-				bandflourish+7='/styles.icon.music.band_flourish7'
-				bandflourish+8='/styles.icon.music.band_flourish8'
-				bandflourish+9='/styles.icon.music.band_flourish9'
 				berserk_1='berserk'
 				bh_ae_dm_1='bh_ae_dm'
 				bh_ae_dm_2='bh_ae_dm'
@@ -17347,7 +17280,6 @@
 				language='/styles.icon.command.sysGroup'
 				language+bothese='/styles.icon.command.sysGroup'
 				language+dosh='/styles.icon.command.sysGroup'
-				language+huttese='/styles.icon.command.sysGroup'
 				language+ithorian='/styles.icon.command.sysGroup'
 				language+lekku='/styles.icon.command.sysGroup'
 				language+moncalamarian='/styles.icon.command.sysGroup'
@@ -17436,9 +17368,6 @@
 				me_hot_1='me_hot'
 				me_hot_2='me_hot'
 				me_hot_3='me_hot'
-				me_hot_ae_1='me_hot_ae'
-				me_hot_ae_2='me_hot_ae'
-				me_hot_ae_3='me_hot'
 				me_induce_insanity='me_induce_insanity_1'
 				me_reckless_stimulation_1='me_reckless_stimulation'
 				me_reckless_stimulation_2='me_reckless_stimulation'
@@ -17669,10 +17598,6 @@
 				startdance+basic2='/styles.icon.music.basic'
 				startdance+breakdance='/styles.icon.music.breakdance'
 				startdance+breakdance2='/styles.icon.music.breakdance'
-				startdance+breakdance3='/styles.icon.music.breakdance'
-				startdance+breakdance4='/styles.icon.music.breakdance'
-				startdance+breakdance5='/styles.icon.music.breakdance'
-				startdance+breakdance6='/styles.icon.music.breakdance'
 				startdance+bunduki='/styles.icon.music.bunduki'
 				startdance+bunduki2='/styles.icon.music.bunduki'
 				startdance+exotic='/styles.icon.music.exotic'
@@ -17746,171 +17671,6 @@
 				wookiee_ability_1='wookiee_ability'
 				zabrak_ability_1='zabrak_ability'
 			>
-				<ImageStyle
-					Name='costume_hutt_female'
-					Source='ui_new_icons_temp10'
-					SourceRect='305,448,353,496'
-				/>
-				<ImageStyle
-					Name='me_hot_ae'
-					Source='ui_new_icons_temp'
-					SourceRect='64,304,113,353'
-				/>
-				<ImageStyle
-					Name='startband'
-					Source='ui_new_icons_temp11'
-					SourceRect='17,401,64,448'
-				/>
-				<ImageStyle
-					Name='stopband'
-					Source='ui_new_icons_temp11'
-					SourceRect='65,401,112,448'
-				/>
-				<ImageStyle
-					Name='startgroupdance'
-					Source='ui_new_icons_temp11'
-					SourceRect='113,401,160,448'
-				/>
-				<ImageStyle
-					Name='stopgroupdance'
-					Source='ui_new_icons_temp11'
-					SourceRect='161,401,208,448'
-				/>
-				<ImageStyle
-					Name='of_deadeye_debuff'
-					Source='ui_new_icons_temp'
-					SourceRect='113,209,160,256'
-				/>
-				<ImageStyle
-					Name='of_emergency_shield'
-					Source='ui_new_icons_temp8'
-					SourceRect='209,209,257,256'
-				/>
-				<ImageStyle
-					Name='of_paint_debuff'
-					Source='ui_new_icons_temp'
-					SourceRect='401,17,448,64'
-				/>
-				<ImageStyle
-					Name='of_paint_expose'
-					Source='ui_new_icons_temp'
-					SourceRect='401,65,448,112'
-				/>
-				<ImageStyle
-					Name='of_leg_strike'
-					Source='ui_new_icons_temp'
-					SourceRect='113,305,160,352'
-				/>
-				<ImageStyle
-					Name='wod_stun'
-					Source='ui_new_icons_temp6'
-					SourceRect='305,209,352,256'
-				/>
-				<ImageStyle
-					Name='wod_poison_dot'
-					Source='ui_new_icons_temp6'
-					SourceRect='113,353,160,400'
-				/>
-				<ImageStyle
-					Name='wod_poison_root'
-					Source='ui_new_icons_temp7'
-					SourceRect='161,401,208,448'
-				/>
-				<ImageStyle
-					Name='wod_cripple'
-					Source='ui_new_icons_temp3'
-					SourceRect='305,161,352,208'
-				/>
-				<ImageStyle
-					Name='wod_agony'
-					Source='ui_new_icons_temp3'
-					SourceRect='113,65,160,112'
-				/>
-				<ImageStyle
-					Name='wod_avoid_damage'
-					Source='ui_new_icons_temp2'
-					SourceRect='257,353,304,400'
-				/>
-				<ImageStyle
-					Name='callforslave1pickup'
-					Source='ui_new_icons_space'
-					SourceRect='449,17,496,64'
-				/>
-				<ImageStyle
-					Name='costume_esb_boba_fett'
-					Source='ui_new_icons_temp11'
-					SourceRect='113,161,160,208'
-				/>
-				<ImageStyle
-					Name='fs_general_premonition'
-					Source='ui_new_icons_temp2'
-					SourceRect='65,449,112,496'
-				/>
-				<ImageStyle
-					Name='fs_general_grace_in_motion'
-					Source='ui_new_icons_temp2'
-					SourceRect='353,401,400,448'
-				/>
-				<ImageStyle
-					Name='callforsnowspeeder'
-					Source='ui_new_icons_temp9'
-					SourceRect='401,65,448,112'
-				/>
-				<ImageStyle
-					Name='bm_improved_healing'
-					Source='ui_new_icons_temp'
-					SourceRect='353,449,400,496'
-				/>
-				<ImageStyle
-					Name='bm_erratic_genius'
-					Source='ui_new_icons_temp2'
-					SourceRect='353,257,400,304'
-				/>
-				<ImageStyle
-					Name='bm_pet_dodge'
-					Source='ui_new_icons_temp3'
-					SourceRect='209,161,256,208'
-				/>
-				<ImageStyle
-					Name='bm_evasion'
-					Source='ui_new_icons_temp5'
-					SourceRect='65,17,112,64'
-				/>
-				<ImageStyle
-					Name='fs_general_grace_in_motion'
-					Source='ui_new_icons_temp2'
-					SourceRect='353,401,400,448'
-				/>
-				<ImageStyle
-					Name='costume_esb_leia'
-					Source='ui_new_icons_temp11'
-					SourceRect='401,113,448,160'
-				/>
-				<ImageStyle
-					Name='costume_esb_luke'
-					Source='ui_new_icons_temp11'
-					SourceRect='449,113,496,160'
-				/>
-				<ImageStyle
-					Name='costume_esb_han_solo'
-					Source='ui_new_icons_temp11'
-					SourceRect='353,113,400,160'
-				/>
-				<ImageStyle
-					Name='costume_esb_lando'
-					Source='ui_new_icons_temp11'
-					SourceRect='305,113,352,160'
-				/>
-				<ImageStyle
-					Name='costume_esb_darth_vader'
-					Source='ui_new_icons_temp11'
-					SourceRect='18,161,64,208'
-				/>
-				<ImageStyle
-					Name='costume_esb_yoda'
-					Source='ui_new_icons_temp11'
-					SourceRect='64,161,113,208'
-				/>
 				<ImageStyle
 					Name='chroniclesLootToggle'
 					Source='ui_collections_icons_16'
@@ -19273,133 +19033,133 @@
 				/>
 				<ImageStyle
 					Name='costume_4lom'
-					Source='ui_new_icons_temp11'
-					SourceRect='17,17,64,64'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_battle_droid'
-					Source='ui_new_icons_temp11'
-					SourceRect='161,17,208,64'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_burning_ewok'
-					Source='ui_new_icons_temp11'
-					SourceRect='209,17,256,64'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_chevin'
-					Source='ui_new_icons_temp11'
-					SourceRect='257,17,304,64'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_chiss_01'
-					Source='ui_new_icons_temp11'
-					SourceRect='305,17,352,64'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_dantari_f'
-					Source='ui_new_icons_temp11'
-					SourceRect='353,17,400,64'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_dantari_m'
-					Source='ui_new_icons_temp11'
-					SourceRect='401,17,448,64'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_darktrooper'
-					Source='ui_new_icons_temp11'
-					SourceRect='449,17,496,64'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_droid_8t88'
-					Source='ui_new_icons_temp11'
-					SourceRect='65,17,112,64'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_droideka'
-					Source='ui_new_icons_temp11'
-					SourceRect='17,65,64,112'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_ewok'
-					Source='ui_new_icons_temp11'
-					SourceRect='65,65,112,112'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_exar_kun_cultist'
-					Source='ui_new_icons_temp11'
-					SourceRect='161,65,208,112'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_gamorrean_guard'
-					Source='ui_new_icons_temp11'
-					SourceRect='209,65,256,112'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_gungan'
-					Source='ui_new_icons_temp11'
-					SourceRect='257,65,304,112'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_ig106'
-					Source='ui_new_icons_temp11'
-					SourceRect='306,65,351,112'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_jawa'
-					Source='ui_new_icons_temp11'
-					SourceRect='401,64,448,112'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_lifeday_monkey_lizard'
-					Source='ui_new_icons_temp11'
-					SourceRect='17,113,64,160'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_loveday_ewok_cupid'
-					Source='ui_new_icons_temp11'
-					SourceRect='113,65,160,112'
+					Source='ui_new_icons_temp9'
+					SourceRect='113,305,160,352'
 				/>
 				<ImageStyle
 					Name='costume_monkey_lizard'
-					Source='ui_new_icons_temp11'
-					SourceRect='449,65,496,112'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_muftak'
-					Source='ui_new_icons_temp11'
-					SourceRect='113,113,160,160'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_mustafarian_01'
-					Source='ui_new_icons_temp11'
-					SourceRect='209,113,256,160'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_royal_guard'
-					Source='ui_new_icons_temp11'
-					SourceRect='353,65,400,112'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_spider_droid'
-					Source='ui_new_icons_temp11'
-					SourceRect='257,113,304,160'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_super_battle_droid'
-					Source='ui_new_icons_temp11'
-					SourceRect='65,113,112,160'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_toydarian'
-					Source='ui_new_icons_temp11'
-					SourceRect='161,113,208,160'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='costume_undead_wookie'
-					Source='ui_new_icons_temp11'
-					SourceRect='113,17,160,64'
+					Source='ui_new_icons_temp9'
+					SourceRect='257,209,304,256'
 				/>
 				<ImageStyle
 					Name='countertoxin'
@@ -22697,89 +22457,9 @@
 					SourceRect='209,208,256,257'
 				/>
 				<ImageStyle
-					Name='costume_seven_obi_wan_ghost'
-					Source='ui_new_icons_temp11'
-					SourceRect='161,161,208,208'
-				/>
-				<ImageStyle
-					Name='costume_axkva_min'
-					Source='ui_new_icons_temp11'
-					SourceRect='209,161,256,209'
-				/>
-				<ImageStyle
-					Name='costume_meatlump_king'
-					Source='ui_new_icons_temp11'
-					SourceRect='257,161,304,208'
-				/>
-				<ImageStyle
-					Name='costume_wampa'
-					Source='ui_new_icons_temp11'
-					SourceRect='305,161,352,208'
-				/>
-				<ImageStyle
-					Name='costume_rancor'
-					Source='ui_new_icons_temp11'
-					SourceRect='353,161,400,208'
-				/>
-				<ImageStyle
-					Name='costume_mutant_rancor'
-					Source='ui_new_icons_temp11'
-					SourceRect='401,161,448,208'
-				/>
-				<ImageStyle
-					Name='costume_blackwing_rancor'
-					Source='ui_new_icons_temp11'
-					SourceRect='449,161,496,208'
-				/>
-				<ImageStyle
-					Name='costume_tusken_king'
-					Source='ui_new_icons_temp11'
-					SourceRect='17,209,64,256'
-				/>
-				<ImageStyle
-					Name='costume_zozpheratu'
-					Source='ui_new_icons_temp11'
-					SourceRect='66,209,112,256'
-				/>
-				<ImageStyle
-					Name='costume_skeleton'
-					Source='ui_new_icons_temp11'
-					SourceRect='113,209,160,256'
-				/>
-				<ImageStyle
-					Name='costume_geonosian'
-					Source='ui_new_icons_temp11'
-					SourceRect='161,209,208,256'
-				/>
-				<ImageStyle
-					Name='costume_tauntaun'
-					Source='ui_new_icons_temp11'
-					SourceRect='209,209,256,256'
-				/>
-				<ImageStyle
-					Name='costume_mynock'
-					Source='ui_new_icons_temp11'
-					SourceRect='257,209,304,256'
-				/>
-				<ImageStyle
-					Name='costume_dug'
-					Source='ui_new_icons_temp11'
-					SourceRect='306,209,353,256'
-				/>
-				<ImageStyle
-					Name='costume_ugnaught'
-					Source='ui_new_icons_temp11'
-					SourceRect='353,209,400,256'
-				/>
-				<ImageStyle
 					Name='en_heal'
 					Source='ui_new_icons_temp11'
 					SourceRect='160,304,209,353'
-				/>
-				<ImageStyle
-					Name='trader_heal'
-					Source='ui_new_icons_temp3'
-					SourceRect='304,448,353,497'
 				/>
 				<ImageStyle
 					Name='en_focused_control'
@@ -22807,7 +22487,7 @@
 					SourceRect='208,304,257,352'
 				/>
 				<ImageStyle
-					Name='en_action_regen'
+					Name='en_set_call_back'
 					Source='ui_new_icons_temp4'
 					SourceRect='64,304,113,353'
 				/>
@@ -23777,7 +23457,6 @@
 				timid='careful'
 				tired='sleepy'
 				troubled='sad'
-				undead='undead'
 				unhappy='sad'
 				unwilling='careful'
 				vengeful='mean'
@@ -24081,11 +23760,6 @@
 					SourceRect='305,257,352,304'
 				/>
 				<ImageStyle
-					Name='undead'
-					Source='ui_new_icons_temp3'
-					SourceRect='354,209,401,256'
-				/>
-				<ImageStyle
 					Name='uncertain'
 					Source='ui_new_icons_temp3'
 					SourceRect='401,305,448,352'
@@ -24099,51 +23773,6 @@
 			<Namespace
 				Name='music'
 			>
-				<ImageStyle
-					Name='band_flourish1'
-					Source='ui_new_icons_temp11'
-					SourceRect='17,353,64,400'
-				/>
-				<ImageStyle
-					Name='band_flourish2'
-					Source='ui_new_icons_temp11'
-					SourceRect='65,353,112,400'
-				/>
-				<ImageStyle
-					Name='band_flourish3'
-					Source='ui_new_icons_temp11'
-					SourceRect='113,353,160,400'
-				/>
-				<ImageStyle
-					Name='band_flourish4'
-					Source='ui_new_icons_temp11'
-					SourceRect='161,353,208,400'
-				/>
-				<ImageStyle
-					Name='band_flourish5'
-					Source='ui_new_icons_temp11'
-					SourceRect='209,353,256,400'
-				/>
-				<ImageStyle
-					Name='band_flourish6'
-					Source='ui_new_icons_temp11'
-					SourceRect='257,353,304,400'
-				/>
-				<ImageStyle
-					Name='band_flourish7'
-					Source='ui_new_icons_temp11'
-					SourceRect='305,353,352,400'
-				/>
-				<ImageStyle
-					Name='band_flourish8'
-					Source='ui_new_icons_temp11'
-					SourceRect='353,353,400,400'
-				/>
-				<ImageStyle
-					Name='band_flourish9'
-					Source='ui_new_icons_temp11'
-					SourceRect='401,353,448,400'
-				/>
 				<ImageStyle
 					Name='dirge'
 					Source='ui_new_icons_temp3'
@@ -24428,11 +24057,6 @@
 					Name='pop'
 					Source='ui_new_icons_temp4'
 					SourceRect='352,401,399,448'
-				/>
-				<ImageStyle
-					Name='song_flourish9'
-					Source='ui_new_icons_temp11'
-					SourceRect='256,304,305,353'
 				/>
 			</Namespace>
 			<Namespace
@@ -24953,8 +24577,6 @@
 				twistarm='chestpound'
 				twitch='bmoc'
 				uncle='apologize'
-				undead_claw='undead'
-				undead_crouch='undead'
 				up='accuse'
 				veto='disagree'
 				waft='nose'
@@ -25193,11 +24815,6 @@
 					Name='thumbsup'
 					Source='ui_new_icons_temp3'
 					SourceRect='401,160,448,207'
-				/>
-				<ImageStyle
-					Name='undead'
-					Source='ui_new_icons_temp3'
-					SourceRect='354,210,401,257'
 				/>
 				<ImageStyle
 					Name='wince'
@@ -25683,10 +25300,10 @@
 			>
 				<ListStyle
 					BackgroundColor='#3A4439'
-					CellHeight='19'
+					CellHeight='22'
 					CellPadding='8,2'
 					DefaultTextColor='#96F4FC'
-					DefaultTextStyle='bold_13'
+					DefaultTextStyle='bold_14'
 					GridColor='#1CFFFF'
 					Margin='2,1,2,2'
 					Name='style'
@@ -25784,10 +25401,10 @@
 				<ListStyle
 					BackgroundColor='#00D6FB'
 					BackgroundOpacity='0.00'
-					CellHeight='19'
+					CellHeight='22'
 					CellPadding='4,2'
 					DefaultTextColor='#96F4FC'
-					DefaultTextStyle='bold_11'
+					DefaultTextStyle='bold_14'
 					GridColor='#1CFFFF'
 					Margin='3,4,3,3'
 					Name='style'
@@ -30285,12 +29902,45 @@
 						MouseOverSound='ui_rollover'
 						MouseOverTextColor='#18393D'
 						MouseOverTextMargin='3,0,3,0'
-						MouseOverTextStyle='bold_11'
+						MouseOverTextStyle='bold_13'
 						Name='style'
 						NormalIconColor='#00D6FB'
 						NormalTextColor='#2FF4FF'
 						NormalTextMargin='3,0,3,0'
-						NormalTextStyle='bold_11'
+						NormalTextStyle='bold_13'
+						PalActivatedText='textactivated'
+						PalDisabledText='textdisabled'
+						PalHoverText='texthover'
+						PalNormalText='textdefault'
+						PalSelectedText='textselected'
+						PressedTextColor='#00393E'
+						PressedTextMargin='3,0,3,0'
+						ReleaseSound='ui_deselect'
+						RStyleActivated='activated.rs'
+						RStyleDefault='default.rs'
+						RStyleDisabled='disabled.rs'
+						RStyleMouseOver='hover.rs'
+						RStyleMouseOverActivated='activated.rs'
+						RStyleMouseOverSelected='hover.rs'
+						RStyleSelected='selected.rs'
+						SelectedIconColor='#000000'
+						SelectedTextColor='#D2FDFF'
+						SelectedTextMargin='3,0,3,0'
+					/>
+					<ButtonStyle
+						DisabledIconColor='#80FFFF'
+						DisabledTextColor='#028BA8'
+						DisabledTextMargin='3,0,3,0'
+						MouseOverIconColor='#00FFFF'
+						MouseOverSound='ui_rollover'
+						MouseOverTextColor='#18393D'
+						MouseOverTextMargin='3,0,3,0'
+						MouseOverTextStyle='bold_18'
+						Name='convo'
+						NormalIconColor='#00D6FB'
+						NormalTextColor='#2FF4FF'
+						NormalTextMargin='3,0,3,0'
+						NormalTextStyle='bold_18'
 						PalActivatedText='textactivated'
 						PalDisabledText='textdisabled'
 						PalHoverText='texthover'
@@ -31202,7 +30852,7 @@
 						Name='style'
 						NormalTextColor='#2FF4FF'
 						NormalTextMargin='5,0,5,0'
-						NormalTextStyle='bold_11'
+						NormalTextStyle='bold_16'
 						PalActivatedText='tableHeadertextActivated'
 						PalDisabledText='tableHeadertextDisabled'
 						PalHoverText='tableHeadertextHover'
@@ -31536,6 +31186,34 @@
 							West='w'
 						/>
 					</Namespace>
+					<ButtonStyle
+						DisabledTextColor='#028BA8'
+						DisabledTextMargin='5,0,5,0'
+						MouseOverSound='ui_rollover'
+						MouseOverTextColor='#18393D'
+						MouseOverTextMargin='5,0,5,0'
+						Name='style_16'
+						NormalTextColor='#2FF4FF'
+						NormalTextMargin='5,0,5,0'
+						NormalTextStyle='bold_16'
+						PalActivatedText='tableHeadertextActivated'
+						PalDisabledText='tableHeadertextDisabled'
+						PalHoverText='tableHeadertextHover'
+						PalNormalText='tableHeadertextDefault'
+						PalSelectedText='tableHeadertextSelected'
+						PressedTextColor='#00ECFF'
+						PressedTextMargin='5,0,5,0'
+						ReleaseSound='ui_deselect'
+						RStyleActivated='activated.rs'
+						RStyleDefault='default.rs'
+						RStyleDisabled='disabled.rs'
+						RStyleMouseOver='hover.rs'
+						RStyleMouseOverActivated='activated.rs'
+						RStyleMouseOverSelected='selected.rs'
+						RStyleSelected='selected.rs'
+						SelectedTextColor='#00ECFF'
+						SelectedTextMargin='5,0,5,0'
+					/>
 				</Namespace>
 				<Namespace
 					Name='newInFrame3'
@@ -32227,7 +31905,7 @@
 						Name='style'
 						NormalIconColor='#00D6FB'
 						NormalTextMargin='3,0,3,0'
-						NormalTextStyle='bold_11'
+						NormalTextStyle='bold_16'
 						PalActivatedText='radialTextLight'
 						PalDisabledText='radialTextDark'
 						PalHoverText='radialTextLight'
@@ -33417,7 +33095,7 @@
 				<CheckboxStyle
 					Name='Style2'
 					NormalCheckedImage='checkedImage'
-					NormalTextStyle='bold_11'
+					NormalTextStyle='bold_13'
 					NormalUncheckedImage='uncheckedImage'
 					TextOffset='24,0'
 				/>
@@ -33455,7 +33133,7 @@
 				<CheckboxStyle
 					Name='Style'
 					NormalCheckedImage='checkedImage'
-					NormalTextStyle='bold_11'
+					NormalTextStyle='bold_13'
 					NormalUncheckedImage='uncheckedImage'
 					TextOffset='26,0'
 				/>
@@ -37140,7 +36818,7 @@
 				<CheckboxStyle
 					Name='Style'
 					NormalCheckedImage='checkedImage'
-					NormalTextStyle='bold_11'
+					NormalTextStyle='bold_14'
 					NormalUncheckedImage='uncheckedImage'
 					TextOffset='28,4'
 				/>
@@ -39861,11 +39539,11 @@
 							MouseOverSound='ui_rollover'
 							MouseOverTextColor='#18393D'
 							MouseOverTextMargin='9,0,9,0'
-							MouseOverTextStyle='bold_11'
+							MouseOverTextStyle='bold_13'
 							Name='style'
 							NormalTextColor='#2FF4FF'
 							NormalTextMargin='9,0,9,0'
-							NormalTextStyle='bold_11'
+							NormalTextStyle='bold_13'
 							PalActivatedText='textactivated'
 							PalDisabledText='textdisabled'
 							PalHoverText='texthover'
@@ -39881,7 +39559,7 @@
 							RStyleMouseOverSelected='hover.rs'
 							RStyleSelected='selected.rs'
 							SelectedTextMargin='9,0,9,0'
-							SelectedTextStyle='bold_11'
+							SelectedTextStyle='bold_13'
 						/>
 					</Namespace>
 				</Namespace>
@@ -39988,7 +39666,7 @@
 							RStyleSelected='selected.rs'
 							SelectedTextColor='#D2FDFF'
 							SelectedTextMargin='8,0,8,0'
-							SelectedTextStyle='bold_13'
+							SelectedTextStyle='bold_14'
 							TextAlignment='Left'
 						/>
 						<Namespace
@@ -46432,7 +46110,6 @@
 				triangleOn='#48F200'
 				zoneback='#ffffff'
 			/>
-			<include>ui_palette_ground.inc</include>
 		</Namespace>
 		<Namespace
 			Name='Pie'
@@ -46513,8 +46190,8 @@
 				/>
 				<PopupMenuStyle
 					BackgroundOpacity='0.00'
-					ButtonStyle='New.buttons.hud.style'
-					ItemHeight='24'
+					ButtonStyle='New.buttons.hud.convo'
+					ItemHeight='40'
 					Name='style'
 					RStyleDefault='rs_default'
 				/>
@@ -46531,7 +46208,7 @@
 				<PopupMenuStyle
 					BackgroundOpacity='0.00'
 					ButtonStyle='New.buttons.pop.style'
-					ItemHeight='22'
+					ItemHeight='26'
 					Name='style1'
 				/>
 			</Namespace>
@@ -46605,7 +46282,7 @@
 					ButtonStyleW='buttons.w.style'
 					ItemHeight='40'
 					ItemMargin='10,10'
-					ItemRadius='60'
+					ItemRadius='84'
 					Name='style'
 					PopupStyleE='popupmenu_radial.default.style1'
 					PopupStyleN='popupmenu_radial.default.style1'
@@ -46691,7 +46368,7 @@
 							MouseOverTextMargin='4,7,25,7'
 							Name='style'
 							NormalTextMargin='4,7,25,7'
-							NormalTextStyle='bold_11'
+							NormalTextStyle='bold_16'
 							PalDisabledText='radialTextDark'
 							PalHoverText='radialTextLight'
 							PalNormalText='radialTextLight'
@@ -46775,7 +46452,7 @@
 							MouseOverTextMargin='25,7,4,7'
 							Name='style'
 							NormalTextMargin='25,7,4,7'
-							NormalTextStyle='bold_11'
+							NormalTextStyle='bold_16'
 							PalDisabledText='radialTextDark'
 							PalHoverText='radialTextLight'
 							PalNormalText='radialTextLight'
@@ -46859,7 +46536,7 @@
 							MouseOverTextMargin='25,7,4,7'
 							Name='style'
 							NormalTextMargin='25,7,4,7'
-							NormalTextStyle='bold_11'
+							NormalTextStyle='bold_16'
 							PalDisabledText='radialTextDark'
 							PalHoverText='radialTextLight'
 							PalNormalText='radialTextLight'
@@ -46943,7 +46620,7 @@
 							MouseOverTextMargin='4,7,25,7'
 							Name='style'
 							NormalTextMargin='4,7,25,7'
-							NormalTextStyle='bold_11'
+							NormalTextStyle='bold_16'
 							PalDisabledText='radialTextDark'
 							PalHoverText='radialTextLight'
 							PalNormalText='radialTextLight'
@@ -47027,7 +46704,7 @@
 							MouseOverTextMargin='30,7,4,7'
 							Name='style'
 							NormalTextMargin='30,7,4,7'
-							NormalTextStyle='bold_11'
+							NormalTextStyle='bold_16'
 							PalDisabledText='radialTextDark'
 							PalHoverText='radialTextLight'
 							PalNormalText='radialTextLight'
@@ -47111,7 +46788,7 @@
 							MouseOverTextMargin='4,7,30,7'
 							Name='style'
 							NormalTextMargin='4,7,30,7'
-							NormalTextStyle='bold_11'
+							NormalTextStyle='bold_16'
 							PalDisabledText='radialTextDark'
 							PalHoverText='radialTextLight'
 							PalNormalText='radialTextLight'
@@ -47195,7 +46872,7 @@
 							MouseOverTextMargin='6,7,6,7'
 							Name='style'
 							NormalTextMargin='6,7,6,7'
-							NormalTextStyle='bold_11'
+							NormalTextStyle='bold_16'
 							PalDisabledText='radialTextDark'
 							PalHoverText='radialTextLight'
 							PalNormalText='radialTextLight'
@@ -47280,7 +46957,7 @@
 							MouseOverTextMargin='6,7,6,7'
 							Name='style'
 							NormalTextMargin='6,7,6,7'
-							NormalTextStyle='bold_11'
+							NormalTextStyle='bold_16'
 							PalDisabledText='radialTextDark'
 							PalHoverText='radialTextLight'
 							PalNormalText='radialTextLight'
@@ -54835,7 +54512,7 @@
 					Name='style'
 					NormalTextColor='#2FF4FF'
 					NormalTextMargin='8,1,8,0'
-					NormalTextStyle='bold_11'
+					NormalTextStyle='bold_14'
 					PalActivatedText='textActivated'
 					PalDisabledText='textActivated'
 					PalHoverText='textHover'
@@ -55185,7 +54862,7 @@
 					Name='style'
 					NormalTextColor='#2FF4FF'
 					NormalTextMargin='8,1,8,0'
-					NormalTextStyle='bold_11'
+					NormalTextStyle='bold_14'
 					PalActivatedText='textActivated'
 					PalDisabledText='textActivated'
 					PalHoverText='textHover'
@@ -56067,101 +55744,6 @@
 				</Namespace>
 			</Namespace>
 			<Namespace
-				Name='buttontemp_color'
-			>
-				<ButtonStyle
-					DisabledIconColor='#80FFFF'
-					DisabledTextColor='#F4D3B9'
-					DisabledTextMargin='7,0,7,0'
-					MouseOverIconColor='#00FFFF'
-					MouseOverSound='ui_rollover'
-					MouseOverTextColor='#CEE6FF'
-					MouseOverTextMargin='7,0,7,0'
-					MouseOverTextStyle='bold_11'
-					Name='style'
-					NormalIconColor='#F4D3B9'
-					NormalTextColor='#F4D3B9'
-					NormalTextMargin='7,0,7,0'
-					NormalTextStyle='bold_11'
-					PressedTextColor='#F4D3B9'
-					PressedTextMargin='7,0,7,0'
-					ReleaseSound='ui_deselect'
-					RStyleActivated='activated.rs'
-					RStyleDefault='default.rs'
-					RStyleDisabled='disabled.rs'
-					RStyleMouseOver='hover.rs'
-					RStyleMouseOverActivated='activated.rs'
-					RStyleMouseOverSelected='hover.rs'
-					RStyleSelected='selected.rs'
-					SelectedIconColor='#000000'
-					SelectedTextColor='#F4D3B9'
-					SelectedTextMargin='7,0,7,0'
-					TextCapital='true'
-				/>
-				<Namespace
-					Name='default'
-				>
-					<RectangleStyle
-						Center='c'
-						Color='#F4D3B9'
-						East='e'
-						Name='rs'
-						North='n'
-						NorthEast='ne'
-						NorthWest='nw'
-						South='s'
-						SouthEast='se'
-						SouthWest='sw'
-						West='w'
-					/>
-					<ImageStyle
-						Name='nw'
-						Source='ui_shader_add:ui_space_hud'
-						SourceRect='421,131,431,140'
-					/>
-					<ImageStyle
-						Name='ne'
-						Source='ui_shader_add:ui_space_hud'
-						SourceRect='431,131,421,140'
-					/>
-					<ImageStyle
-						Name='n'
-						Source='ui_shader_add:ui_space_hud'
-						SourceRect='432,130,433,139'
-					/>
-					<ImageStyle
-						Name='sw'
-						Source='ui_shader_add:ui_space_hud'
-						SourceRect='421,140,431,131'
-					/>
-					<ImageStyle
-						Name='se'
-						Source='ui_shader_add:ui_space_hud'
-						SourceRect='431,140,421,131'
-					/>
-					<ImageStyle
-						Name='s'
-						Source='ui_shader_add:ui_space_hud'
-						SourceRect='431,140,432,131'
-					/>
-					<ImageStyle
-						Name='w'
-						Source='ui_shader_add:ui_space_hud'
-						SourceRect='421,138,431,139'
-					/>
-					<ImageStyle
-						Name='e'
-						Source='ui_shader_add:ui_space_hud'
-						SourceRect='431,138,421,139'
-					/>
-					<ImageStyle
-						Name='c'
-						Source='ui_shader_add:ui_space_hud'
-						SourceRect='52,295,57,297'
-					/>
-				</Namespace>
-			</Namespace>
-			<Namespace
 				Name='Checkbox'
 				Size='128,64'
 			>
@@ -56181,7 +55763,7 @@
 				<CheckboxStyle
 					Name='Style'
 					NormalCheckedImage='checkedImage'
-					NormalTextStyle='bold_11'
+					NormalTextStyle='bold_13'
 					NormalUncheckedImage='uncheckedImage'
 					TextOffset='34,1'
 				/>
@@ -58154,11 +57736,6 @@
 					stopmusic='/styles.icon.music.ballad'
 					takecover='/styles.icon.state.cover'
 				>
-					<ImageStyle
-						Name='spacebattlestatus'
-						Source='ui_new_icons_space'
-						SourceRect='449,113,496,160'
-					/>
 					<ImageStyle
 						Name='spacefaction'
 						Source='ui_collections_icons_space_06'
@@ -60914,7 +60491,6 @@
 					timid='careful'
 					tired='sleepy'
 					troubled='sad'
-					undead='undead'
 					unhappy='sad'
 					unwilling='careful'
 					vengeful='mean'
@@ -61221,11 +60797,6 @@
 						Name='uncertain'
 						Source='ui_rebel_icons'
 						SourceRect='301,2,325,26'
-					/>
-					<ImageStyle
-						Name='undead'
-						Source='ui_rebel_icons'
-						SourceRect='393,24,417,48'
 					/>
 					<ImageStyle
 						Name='whiny'
@@ -61890,8 +61461,6 @@
 					twistarm='flex'
 					twitch='/styles.Icon.mood.careful'
 					uncle='/styles.Icon.mood.taunting'
-					undead_claw='undead'
-					undead_crouch='undead'
 					waft='/styles.Icon.mood.hysterical'
 					ward='defend'
 					wave='hand'
@@ -62410,11 +61979,6 @@
 						Name='triangle'
 						Source='ui_rebel_icons'
 						SourceRect='117,186,141,210'
-					/>
-					<ImageStyle
-						Name='undead'
-						Source='ui_rebel_icons'
-						SourceRect='416,187,440,163'
 					/>
 					<ImageStyle
 						Name='up'
@@ -63052,10 +62616,10 @@
 					<ListStyle
 						BackgroundColor='#00D6FB'
 						BackgroundOpacity='0.00'
-						CellHeight='19'
+						CellHeight='22'
 						CellPadding='4,2'
 						DefaultTextColor='#96F4FC'
-						DefaultTextStyle='bold_11'
+						DefaultTextStyle='bold_14'
 						GridColor='#1CFFFF'
 						Margin='3,4,3,3'
 						Name='style'
@@ -66691,7 +66255,6 @@
 					titleText='#62BCFF'
 					zoneback='#010A58'
 				/>
-				<include>ui_palette_space.inc</include>
 			</Namespace>
 			<Namespace
 				Name='Pie'
@@ -70309,11 +69872,11 @@
 						MouseOverSound='ui_rollover'
 						MouseOverTextColor='#18393D'
 						MouseOverTextMargin='1,0,13,0'
-						MouseOverTextStyle='bold_11'
+						MouseOverTextStyle='bold_16'
 						Name='style'
 						NormalTextColor='#2FF4FF'
 						NormalTextMargin='1,0,13,0'
-						NormalTextStyle='bold_11'
+						NormalTextStyle='bold_16'
 						PalActivatedText='Textactivated'
 						PalDisabledText='textdisabled'
 						PalHoverText='texthover'
@@ -70329,7 +69892,7 @@
 						RStyleMouseOverSelected='hover.rs'
 						RStyleSelected='selected.rs'
 						SelectedTextMargin='1,0,13,0'
-						SelectedTextStyle='bold_11'
+						SelectedTextStyle='bold_16'
 						TextCapital='true'
 					/>
 				</Namespace>
@@ -70357,7 +69920,7 @@
 						CaratColor='#B6FD31'
 						CaratWidth='2'
 						Name='Style_bold'
-						NormalTextStyle='default_13'
+						NormalTextStyle='normal_18'
 						PalCarat='carat'
 						PalText='text1'
 						SelectionColor='#555555'
@@ -70384,7 +69947,7 @@
 					<TextboxStyle
 						CaratColor='#B6FD31'
 						Name='Style_out'
-						NormalTextStyle='fixed_14'
+						NormalTextStyle='fixed_16'
 						PalCarat='carat'
 						PalText='text1'
 						RStyleDefault='rs_default'
@@ -70494,6 +70057,16 @@
 						TextColor='#96F4FC'
 						TextPadding='7,7,7,2'
 					/>
+					<TextboxStyle
+						CaratColor='#00FF00'
+						CaratWidth='2'
+						Name='Style_18'
+						NormalTextStyle='bold_18'
+						PalText='text1'
+						SelectionColor='#00FF00'
+						TextColor='#96F4FC'
+						TextPadding='7,7,7,2'
+					/>
 				</Namespace>
 				<Namespace
 					Name='combo'
@@ -70539,12 +70112,12 @@
 				Name='tree'
 			>
 				<TreeViewStyle
-					CellHeight='19'
+					CellHeight='22'
 					CellPadding='-9,3'
 					DefaultTextColor='#003842'
 					DefaultTextColorHighlight='#96F4FC'
 					DefaultTextColorLowlight='#FFFFFF'
-					DefaultTextStyle='bold_11'
+					DefaultTextStyle='bold_14'
 					GridColor='#1CFFFF'
 					ImageStyleCollapsed='image.collapsed'
 					ImageStyleExpanded='image.expanded'
@@ -71006,7 +70579,7 @@
 				<TextboxStyle
 					CaratColor='#B6FD31'
 					Name='Style_out'
-					NormalTextStyle='fixed_14'
+					NormalTextStyle='fixed_16'
 					PalCarat='carat'
 					PalText='text1'
 					RStyleDefault='window.chat.persistent.inner.rs_default'
@@ -71127,6 +70700,17 @@
 					TextColor='#96F4FC'
 					TextPadding='7,7,7,2'
 				/>
+				<TextboxStyle
+					CaratColor='#B6FD31'
+					CaratWidth='2'
+					Name='Style_18'
+					NormalTextStyle='bold_18'
+					PalCarat='carat'
+					PalText='text1'
+					SelectionColor='#00FF00'
+					TextColor='#96F4FC'
+					TextPadding='7,7,7,2'
+				/>
 			</Namespace>
 			<Namespace
 				Name='combo'
@@ -71198,13 +70782,13 @@
 			>
 				<TooltipStyle
 					BackgroundOpacity='0.80'
-					MaxWidth='245'
+					MaxWidth='845'
 					Name='style'
 					PalText='text1'
 					RStyleDefault='New.tool.tool_tip.rs_default'
 					TextColor='#96F4FC'
 					TextPadding='8,8,8,8'
-					TextStyle='normal_12'
+					TextStyle='normal_18'
 				/>
 			</Namespace>
 		</Namespace>
@@ -71212,12 +70796,12 @@
 			Name='tree'
 		>
 			<TreeViewStyle
-				CellHeight='19'
+				CellHeight='21'
 				CellPadding='8,2'
 				DefaultTextColor='#003842'
 				DefaultTextColorHighlight='#96F4FC'
 				DefaultTextColorLowlight='#FFFFFF'
-				DefaultTextStyle='normal_12'
+				DefaultTextStyle='normal_16'
 				GridColor='#1CFFFF'
 				ImageStyleCollapsed='image.collapsed'
 				ImageStyleExpanded='image.expanded'
