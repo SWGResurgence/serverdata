@@ -657,6 +657,11 @@
 						SourceRect='75,16,132,74'
 					/>
 					<ImageStyle
+						Name='col_necrosis_slayer'
+						Source='ui_collections_icons_reward_05'
+						SourceRect='16,133,73,190'
+					/>
+					<ImageStyle
 						Name='col_hoth_rebel_kill_01'
 						Source='ui_collections_icons_reward_04'
 						SourceRect='365,422,422,480'
@@ -1160,6 +1165,11 @@
 						Name='col_round_red_cut_gem_02'
 						Source='ui_collections_icons_reward_03'
 						SourceRect='133,423,190,480'
+					/>
+					<ImageStyle
+						Name='col_round_orange_cut_gem_01'
+						Source='ui_collections_icons_reward_05'
+						SourceRect='75,133,132,190'
 					/>
 					<ImageStyle
 						Name='col_scout_trooper_armor'
@@ -12950,6 +12960,60 @@
 									SourceRect='303,64,352,113'
 								/>
 							</Namespace>
+								<Namespace
+								Name='col_round_orange_cut_gem_01'
+							>
+								<ImageStyle
+									Name='round_orange_gem_style1_01'
+									Source='ui_collections_icons_24'
+									SourceRect='16,17,65,64'
+								/>
+								<ImageStyle
+									Name='round_orange_gem_style1_02'
+									Source='ui_collections_icons_24'
+									SourceRect='64,17,113,64'
+								/>
+								<ImageStyle
+									Name='round_orange_gem_style1_03'
+									Source='ui_collections_icons_24'
+									SourceRect='112,17,161,64'
+								/>
+								<ImageStyle
+									Name='round_orange_gem_style1_04'
+									Source='ui_collections_icons_24'
+									SourceRect='160,17,209,64'
+								/>
+								<ImageStyle
+									Name='round_orange_gem_style1_05'
+									Source='ui_collections_icons_24'
+									SourceRect='208,17,257,64'
+								/>
+								<ImageStyle
+									Name='round_orange_gem_style1_06'
+									Source='ui_collections_icons_24'
+									SourceRect='256,17,305,64'
+								/>
+								<ImageStyle
+									Name='round_orange_gem_style1_07'
+									Source='ui_collections_icons_24'
+									SourceRect='304,17,353,64'
+								/>
+								<ImageStyle
+									Name='round_orange_gem_style1_08'
+									Source='ui_collections_icons_24'
+									SourceRect='352,17,401,64'
+								/>
+								<ImageStyle
+									Name='round_orange_gem_style1_09'
+									Source='ui_collections_icons_24'
+									SourceRect='400,17,449,64'
+								/>
+								<ImageStyle
+									Name='round_orange_gem_style1_10'
+									Source='ui_collections_icons_24'
+									SourceRect='448,17,497,64'
+								/>
+							</Namespace>
 						</Namespace>
 						<Namespace
 							Name='contraband_page'
@@ -15886,6 +15950,15 @@
 									Name='hoth_probe_droid_counter'
 									Source='ui_collections_icons_17'
 									SourceRect='353,113,400,160'
+								/>
+							</Namespace>
+							<Namespace
+								Name='col_necrosis_slayer'
+							>
+								<ImageStyle
+									Name='necrosis_slayer_counter'
+									Source='ui_new_icons_temp12'
+									SourceRect='305,16,352,64'
 								/>
 							</Namespace>
 							<Namespace
