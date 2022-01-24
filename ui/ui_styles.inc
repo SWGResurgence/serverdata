@@ -22528,7 +22528,17 @@
 					SourceRect='209,17,256,64'
         />
         <ImageStyle
+					Name='expertise_trader_enhanced_health_2'
+					Source='ui_new_icons_temp2'
+					SourceRect='209,17,256,64'
+        />
+        <ImageStyle
 					Name='expertise_trader_enhanced_agility_1'
+					Source='ui_new_icons_temp'
+					SourceRect='161,353,208,400'
+        />
+        <ImageStyle
+					Name='expertise_trader_enhanced_agility_2'
 					Source='ui_new_icons_temp'
 					SourceRect='161,353,208,400'
         />
@@ -22538,7 +22548,27 @@
 					SourceRect='113,65,160,112'
         />
         <ImageStyle
+					Name='expertise_trader_artisan_dexterity_2'
+					Source='ui_new_icons_temp7'
+					SourceRect='113,65,160,112'
+        />
+        <ImageStyle
+					Name='expertise_trader_artisan_dexterity_3'
+					Source='ui_new_icons_temp7'
+					SourceRect='113,65,160,112'
+        />
+        <ImageStyle
+					Name='expertise_trader_artisan_dexterity_4'
+					Source='ui_new_icons_temp7'
+					SourceRect='113,65,160,112'
+        />
+        <ImageStyle
 					Name='expertise_trader_enhanced_precision_1'
+					Source='ui_new_icons_temp4'
+					SourceRect='113,17,160,64'
+        />
+        <ImageStyle
+					Name='expertise_trader_enhanced_precision_2'
 					Source='ui_new_icons_temp4'
 					SourceRect='113,17,160,64'
         />
@@ -22548,7 +22578,17 @@
 					SourceRect='65,113,112,161'
         />
         <ImageStyle
+					Name='expertise_trader_enhanced_strength_2'
+					Source='ui_new_icons_temp4'
+					SourceRect='65,113,112,161'
+        />
+        <ImageStyle
 					Name='expertise_trader_reinforced_armor_1'
+					Source='ui_new_icons_temp4'
+					SourceRect='17,305,64,352'
+        />
+        <ImageStyle
+					Name='expertise_trader_reinforced_armor_2'
 					Source='ui_new_icons_temp4'
 					SourceRect='17,305,64,352'
         />
@@ -22558,7 +22598,27 @@
             SourceRect='111,257,158,304'
         />
         <ImageStyle
+					Name='expertise_trader_enhance_block_2'
+					Source='ui_new_icons_temp6'
+            SourceRect='111,257,158,304'
+        />
+        <ImageStyle
 					Name='expertise_trader_artisan_hypothesis_1'
+					Source='ui_new_icons_temp7'
+					SourceRect='209,65,256,112'
+        />
+        <ImageStyle
+					Name='expertise_trader_artisan_hypothesis_2'
+					Source='ui_new_icons_temp7'
+					SourceRect='209,65,256,112'
+        />
+        <ImageStyle
+					Name='expertise_trader_artisan_hypothesis_3'
+					Source='ui_new_icons_temp7'
+					SourceRect='209,65,256,112'
+        />
+        <ImageStyle
+					Name='expertise_trader_artisan_hypothesis_4'
 					Source='ui_new_icons_temp7'
 					SourceRect='209,65,256,112'
         />
@@ -22568,7 +22628,27 @@
 					SourceRect='304,16,352,65'
         />
         <ImageStyle
+					Name='expertise_trader_sidearm_training_2'
+					Source='ui_new_icons_temp9'
+					SourceRect='304,16,352,65'
+        />
+        <ImageStyle
 					Name='expertise_trader_sampling_efficiency_1'
+					Source='ui_new_icons_temp7'
+					SourceRect='113,17,160,64'
+        />
+        <ImageStyle
+					Name='expertise_trader_sampling_efficiency_2'
+					Source='ui_new_icons_temp7'
+					SourceRect='113,17,160,64'
+        />
+        <ImageStyle
+					Name='expertise_trader_sampling_efficiency_3'
+					Source='ui_new_icons_temp7'
+					SourceRect='113,17,160,64'
+        />
+        <ImageStyle
+					Name='expertise_trader_sampling_efficiency_4'
 					Source='ui_new_icons_temp7'
 					SourceRect='113,17,160,64'
         />
@@ -22578,7 +22658,17 @@
 					SourceRect='209,305,256,352'
         />
         <ImageStyle
+					Name='expertise_trader_melee_accuracy_2'
+					Source='ui_new_icons_temp'
+					SourceRect='209,305,256,352'
+        />
+        <ImageStyle
 					Name='expertise_trader_hitech_armor_1'
+					Source='ui_new_icons_temp6'
+					SourceRect='65,161,112,208'
+        />
+        <ImageStyle
+					Name='expertise_trader_hitech_armor_2'
 					Source='ui_new_icons_temp6'
 					SourceRect='65,161,112,208'
         />
@@ -22588,7 +22678,27 @@
 					SourceRect='209,401,256,448'
         />
         <ImageStyle
+					Name='expertise_trader_factory_efficiency_2'
+					Source='ui_new_icons_temp6'
+					SourceRect='209,401,256,448'
+        />
+        <ImageStyle
+					Name='expertise_trader_factory_efficiency_3'
+					Source='ui_new_icons_temp6'
+					SourceRect='209,401,256,448'
+        />
+        <ImageStyle
+					Name='expertise_trader_factory_efficiency_4'
+					Source='ui_new_icons_temp6'
+					SourceRect='209,401,256,448'
+        />
+        <ImageStyle
 					Name='expertise_trader_enhance_evasion_1'
+					Source='ui_new_icons_temp6'
+					SourceRect='258,257,305,304'
+        />
+        <ImageStyle
+					Name='expertise_trader_enhance_evasion_2'
 					Source='ui_new_icons_temp6'
 					SourceRect='258,257,305,304'
         />
@@ -22598,7 +22708,27 @@
 					SourceRect='257,18,304,65'
         />
         <ImageStyle
+					Name='expertise_trader_dire_strikes_2'
+					Source='ui_new_icons_temp3'
+					SourceRect='257,18,304,65'
+        />
+        <ImageStyle
 					Name='expertise_trader_harvester_efficiency_1'
+					Source='ui_new_icons_temp6'
+					SourceRect='305,449,352,496'
+        />
+        <ImageStyle
+					Name='expertise_trader_harvester_efficiency_2'
+					Source='ui_new_icons_temp6'
+					SourceRect='305,449,352,496'
+        />
+        <ImageStyle
+					Name='expertise_trader_harvester_efficiency_3'
+					Source='ui_new_icons_temp6'
+					SourceRect='305,449,352,496'
+        />
+        <ImageStyle
+					Name='expertise_trader_harvester_efficiency_4'
 					Source='ui_new_icons_temp6'
 					SourceRect='305,449,352,496'
         />
@@ -22608,7 +22738,17 @@
 					SourceRect='257,161,304,208'
         />
         <ImageStyle
+					Name='expertise_trader_deflective_armor_2'
+					Source='ui_new_icons_temp3'
+					SourceRect='257,161,304,208'
+        />
+        <ImageStyle
 					Name='expertise_trader_enhance_dodge_1'
+					Source='ui_new_icons_temp6'
+					SourceRect='161,255,208,302'
+        />
+        <ImageStyle
+					Name='expertise_trader_enhance_dodge_2'
 					Source='ui_new_icons_temp6'
 					SourceRect='161,255,208,302'
         />
@@ -22623,12 +22763,42 @@
 					SourceRect='401,305,448,352'
         />
         <ImageStyle
+					Name='expertise_trader_penetration_2'
+					Source='ui_new_icons_temp9'
+					SourceRect='401,305,448,352'
+        />
+        <ImageStyle
 					Name='expertise_trader_lethal_strikes_1'
 					Source='ui_new_icons_temp6'
 					SourceRect='16,112,64,161'
         />
         <ImageStyle
+					Name='expertise_trader_lethal_strikes_2'
+					Source='ui_new_icons_temp6'
+					SourceRect='16,112,64,161'
+        />
+        <ImageStyle
+					Name='expertise_trader_miracle_1'
+					Source='ui_new_icons_temp5'
+					SourceRect='401,65,448,112'
+        />
+        <ImageStyle
 					Name='expertise_trader_advanced_personnel_1'
+					Source='ui_new_icons_temp6'
+					SourceRect='65,401,112,448'
+        />
+        <ImageStyle
+					Name='expertise_trader_advanced_personnel_2'
+					Source='ui_new_icons_temp6'
+					SourceRect='65,401,112,448'
+        />
+        <ImageStyle
+					Name='expertise_trader_advanced_personnel_3'
+					Source='ui_new_icons_temp6'
+					SourceRect='65,401,112,448'
+        />
+        <ImageStyle
+					Name='expertise_trader_advanced_personnel_4'
 					Source='ui_new_icons_temp6'
 					SourceRect='65,401,112,448'
         />
@@ -22638,11 +22808,10 @@
 					SourceRect='65,17,112,64'
         />
         <ImageStyle
-					Name='expertise_trader_miracle_1'
-					Source='ui_new_icons_temp5'
-					SourceRect='401,65,448,112'
+					Name='expertise_trader_deconstruction_techniques_2'
+					Source='ui_new_icons_temp7'
+					SourceRect='65,17,112,64'
         />
-
 				<ImageStyle
 					Name='trainPet'
 					Source='ui_new_icons_temp4'
