@@ -294,7 +294,7 @@ parent.pageButtonsBottom.visible=true'
 					TextAlignmentVertical='Center'
 					TextCapital='true'
 					TextColor='#000000'
-				></Text>
+				>SIGN IN</Text>
 				<Page
 					Location='13,4'
 					Name='box'
