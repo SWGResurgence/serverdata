@@ -17270,6 +17270,7 @@
 				en_sh_2='en_sh'
 				en_sh_3='en_sh'
 				endorphineInjection_1='endorphineInjection'
+        enzymeloottoggle='enzymeLootToggle'
 				extinguishFire_1='extinguishFire'
 				eyeShot_1='eyeShot'
 				fanShot_1='fanShot'
@@ -19975,6 +19976,11 @@
 					Name='entrench'
 					Source='ui_new_icons_temp'
 					SourceRect='65,353,112,400'
+				/>
+        <ImageStyle
+					Name='enzymeLootToggle'
+					Source='ui_new_icons_temp5'
+					SourceRect='353,16,400,63'
 				/>
 				<ImageStyle
 					Name='equilibrium'
