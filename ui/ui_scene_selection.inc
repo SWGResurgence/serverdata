@@ -478,6 +478,14 @@
 							screenshot='screenshots.grasslands'
 							Size='128,64'
 						/>
+            <Data
+              description='dxun'
+              displayname='dxun'
+              filename='terrain/dxun.trn'
+              Name='dxun'
+              screenshot='screenshots.grasslands'
+              Size='128,64'
+            />
 						<Data
 							description='endor'
 							displayname='endor'
