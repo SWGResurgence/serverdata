@@ -68,6 +68,7 @@
 				gcwTalus='map.GalaxyMap.gcwTalus'
 				gcwTatooine='map.GalaxyMap.gcwTatooine'
 				gcwYavin4='map.GalaxyMap.gcwYavin'
+        gcwDxun='map.GalaxyMap.gcwDxun'
 				labelCity='top.city.labelCity'
 				labelCost='bottom.price.labelCost'
 				labelNumericCost='bottom.price.labelNumericCost'
@@ -845,7 +846,7 @@ parent.buttonTravel.visible=false
 						ColorSelection='#FFFFFF'
 						Font='bold_13'
 						LocalText='Endor'
-						Location='31,298'
+						Location='31,198'
 						MinimumSize='0,19'
 						Name='Endor'
 						OpacityRelativeMin='0.70'
@@ -857,7 +858,7 @@ parent.buttonTravel.visible=false
 						TextAlignment='Center'
 						TextAlignmentVertical='Center'
 						TextColor='#62FF15'
-					>Endor</Text>
+					> </Text>
 					<Text
 						BackgroundColor='#FFFFFF'
 						ColorCarat='#FFFFFF'
@@ -1430,6 +1431,19 @@ parent.planetnames.visible=visible'
 						Size='28,27'
 						Style='/Styles.New.buttons.planetLrg.style'
 					></Button>
+          <Button
+						BackgroundColor='#FFFFFF'
+						Icon='/Styles.Icon.map.galactic_gcw_rebel'
+						IconAlignment='Center'
+						Location='393,280'
+						MaximumSize='800,600'
+						Name='gcwDxun'
+						PackLocation='cpc,cpc'
+						PackSize='p,p'
+						ScrollExtent='28,27'
+						Size='28,27'
+						Style='/Styles.New.buttons.planetLrg.style'
+					></Button>
 					<CuiWidget3dObjectListViewer
 						AutoZoomOutOnly='true'
 						CameraForceTarget='true'
@@ -1626,7 +1640,7 @@ parent.planetnames.visible=visible'
 						GetsInput='false'
 						lightambientcolor='#222222'
 						lightcolor='#ffffff'
-						Location='365,241'
+						Location='365,244'
 						Name='vDxun'
 						objectdatasource='data.Dxun'
 						PackLocation='cpc,cpc'
@@ -1638,7 +1652,7 @@ parent.planetnames.visible=visible'
 					/>
 					<Button
 						BackgroundColor='#FFFFFF'
-						Location='365,244'
+						Location='361,240   '
 						MaximumSize='800,600'
 						Name='buttonDxun'
 						PackLocation='cpc,cpc'
