@@ -846,7 +846,7 @@ parent.buttonTravel.visible=false
 						ColorSelection='#FFFFFF'
 						Font='bold_13'
 						LocalText='Endor'
-						Location='31,198'
+						Location='31,298'
 						MinimumSize='0,19'
 						Name='Endor'
 						OpacityRelativeMin='0.70'
@@ -858,7 +858,7 @@ parent.buttonTravel.visible=false
 						TextAlignment='Center'
 						TextAlignmentVertical='Center'
 						TextColor='#62FF15'
-					> </Text>
+					>Endor</Text>
 					<Text
 						BackgroundColor='#FFFFFF'
 						ColorCarat='#FFFFFF'
