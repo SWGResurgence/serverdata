@@ -33,7 +33,7 @@
 				buttonDathomir='map.GalaxyMap.buttonDathomir'
 				buttonDepartGalactic='old.target.from.buttonDepartGalactic'
 				buttonDepartPlanet='old.target.from.buttonDepartPlanet'
-        buttonDxun='map.GalaxyMap.buttonDxun'
+				buttonDxun='map.GalaxyMap.buttonDxun'
 				buttonEndor='map.GalaxyMap.buttonEndor'
 				buttonExit='buttonExit'
 				buttonKashyyyk_main='map.GalaxyMap.buttonKashyyyk'
