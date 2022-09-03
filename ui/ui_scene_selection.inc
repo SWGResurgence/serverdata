@@ -479,6 +479,14 @@
 							Size='128,64'
 						/>
 						<Data
+							description='dxun'
+							displayname='dxun'
+							filename='terrain/dxun.trn'
+							Name='dxun'
+							screenshot='screenshots.grasslands'
+							Size='128,64'
+						/>
+						<Data
 							description='endor'
 							displayname='endor'
 							filename='terrain/endor.trn'
@@ -571,6 +579,14 @@
 							displayname='space_endor'
 							filename='terrain/space_endor.trn'
 							Name='space_endor'
+							screenshot='screenshots.space'
+							Size='128,64'
+						/>
+						<Data
+							description='space_dxun'
+							displayname='space_dxun'
+							filename='terrain/space_dxun.trn'
+							Name='space_dxun'
 							screenshot='screenshots.space'
 							Size='128,64'
 						/>
