@@ -2725,12 +2725,12 @@
 						Name='loveday_2023_activities'
 						Source='ui_new_icons_temp11'
 						SourceRect='17,256,64,305'
-					/>
+					</
 					<ImageStyle
 						Name='loveday_2023_matchmaking'
 						Source='ui_new_icons_temp11'
 						SourceRect='112,257,160,305'
-					/>
+					</
 					<ImageStyle
 						Name='empire_day_anti_propaganda_event_2011'
 						Source='ui_collections_icons_23'
@@ -2838,17 +2838,17 @@
 									SourceRect='161,65,208,112'
 								/>
 								<ImageStyle
-									Name='loveday_2023_card_gathering'
+									Name='loveday_2011_card_gathering'
 									Source='ui_collections_icons_18'
 									SourceRect='209,65,256,112'
 								/>
 								<ImageStyle
-									Name='loveday_2023_playing_cupid'
+									Name='loveday_2011_playing_cupid'
 									Source='ui_collections_icons_18'
 									SourceRect='257,65,304,112'
 								/>
 								<ImageStyle
-									Name='loveday_2023_found_kyoopid'
+									Name='loveday_2011_found_kyoopid'
 									Source='ui_collections_icons_18'
 									SourceRect='305,65,352,112'
 								/>
@@ -2897,7 +2897,6 @@
 									SourceRect='353,305,400,352'
 								/>
 							</Namespace>
-						</Namespace>
 						<Namespace
 							Name='festival_of_love_2011'
 						>
