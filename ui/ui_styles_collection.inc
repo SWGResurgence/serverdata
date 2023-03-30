@@ -2722,6 +2722,16 @@
 						SourceRect='112,257,160,305'
 					/>
 					<ImageStyle
+						Name='loveday_2023_activities'
+						Source='ui_new_icons_temp11'
+						SourceRect='17,256,64,305'
+					/>
+					<ImageStyle
+						Name='loveday_2023_matchmaking'
+						Source='ui_new_icons_temp11'
+						SourceRect='112,257,160,305'
+					/>
+					<ImageStyle
 						Name='empire_day_anti_propaganda_event_2011'
 						Source='ui_collections_icons_23'
 						SourceRect='160,16,209,65'
@@ -2813,6 +2823,78 @@
 									Name='eow_scavenger_blacksun_scanner'
 									Source='ui_collections_icons_10'
 									SourceRect='65,64,113,113'
+								/>
+							</Namespace>
+						</Namespace>
+						<Namespace
+							Name='festival_of_love_2023'
+						>
+							<Namespace
+								Name='loveday_2023_activities'
+							>
+								<ImageStyle
+									Name='loveday_2023_disillusion_quest'
+									Source='ui_collections_icons_18'
+									SourceRect='161,65,208,112'
+								/>
+								<ImageStyle
+									Name='loveday_2023_card_gathering'
+									Source='ui_collections_icons_18'
+									SourceRect='209,65,256,112'
+								/>
+								<ImageStyle
+									Name='loveday_2023_playing_cupid'
+									Source='ui_collections_icons_18'
+									SourceRect='257,65,304,112'
+								/>
+								<ImageStyle
+									Name='loveday_2023_found_kyoopid'
+									Source='ui_collections_icons_18'
+									SourceRect='305,65,352,112'
+								/>
+							</Namespace>
+							<Namespace
+								Name='loveday_2023_matchmaking'
+							>
+								<ImageStyle
+									Name='loveday_2023_matched_amy'
+									Source='ui_new_icons_temp9'
+									SourceRect='209,305,256,352'
+								/>
+								<ImageStyle
+									Name='loveday_2023_matched_cristina'
+									Source='ui_new_icons_temp9'
+									SourceRect='257,305,304,352'
+								/>
+								<ImageStyle
+									Name='loveday_2023_matched_cera'
+									Source='ui_new_icons_temp9'
+									SourceRect='305,305,352,352'
+								/>
+								<ImageStyle
+									Name='loveday_2023_matched_edie'
+									Source='ui_new_icons_temp9'
+									SourceRect='353,305,400,352'
+								/>
+								<ImageStyle
+									Name='loveday_2023_matched_logan'
+									Source='ui_new_icons_temp9'
+									SourceRect='209,305,256,352'
+								/>
+								<ImageStyle
+									Name='loveday_2023_matched_michael'
+									Source='ui_new_icons_temp9'
+									SourceRect='257,305,304,352'
+								/>
+								<ImageStyle
+									Name='loveday_2023_matched_james'
+									Source='ui_new_icons_temp9'
+									SourceRect='305,305,352,352'
+								/>
+								<ImageStyle
+									Name='loveday_2023_matched_steven'
+									Source='ui_new_icons_temp9'
+									SourceRect='353,305,400,352'
 								/>
 							</Namespace>
 						</Namespace>
@@ -18728,6 +18810,25 @@
 								/>
 								<ImageStyle
 									Name='loveday_cupid_badge_10'
+									Source='ui_new_icons_temp10'
+									SourceRect='113,353,160,400'
+								/>
+							</Namespace>
+							<Namespace
+								Name='col_loveday_23'
+							>
+								<ImageStyle
+									Name='loveday_matchmaker_badge_23'
+									Source='ui_new_icons_temp10'
+									SourceRect='161,353,208,400'
+								/>
+								<ImageStyle
+									Name='loveday_badge_23'
+									Source='ui_new_icons_temp10'
+									SourceRect='65,353,112,400'
+								/>
+								<ImageStyle
+									Name='loveday_cupid_badge_23'
 									Source='ui_new_icons_temp10'
 									SourceRect='113,353,160,400'
 								/>

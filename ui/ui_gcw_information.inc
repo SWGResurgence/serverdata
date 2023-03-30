@@ -1555,6 +1555,25 @@
 					TextAlignmentVertical='Center'
 					TextColor='#62FF15'
 				>Dathomir</Text>
+        <Text
+					BackgroundColor='#FFFFFF'
+					ColorCarat='#FFFFFF'
+					ColorSelection='#FFFFFF'
+					Font='bold_13'
+					LocalText='Dxun'
+					Location='356,240'
+					MinimumSize='0,19'
+					Name='Dxun'
+					OpacityRelativeMin='0.70'
+					PackLocation='cpc,cpc'
+					PackSize='p,f'
+					PalText='contrast1'
+					ScrollExtent='82,19'
+					Size='82,19'
+					TextAlignment='Center'
+					TextAlignmentVertical='Center'
+					TextColor='#62FF15'
+				>Dxun</Text>
 				<Text
 					BackgroundColor='#FFFFFF'
 					ColorCarat='#FFFFFF'
@@ -1883,6 +1902,28 @@
 							VisualEditLock='true'
 						/>
 					</Page>
+          <Page
+						BackgroundColor='#FFFFFF'
+						Name='dxun'
+						OpacityRelativeMin='0.50'
+						PackLocation='nfn,nfn'
+						PackSize='a,a'
+						RStyleDefault='rs_default'
+						ScrollExtent='593,512'
+						Size='593,512'
+						Visible='false'
+					>
+						<Image
+							BackgroundColor='#FFFFFF'
+							Name='a'
+							PackSize='a,a'
+							ScrollExtent='593,512'
+							Size='593,512'
+							SourceRect='0,0,1024,1024'
+							SourceResource='ui_map_dxun'
+							VisualEditLock='true'
+						/>
+          </Page>
 					<Page
 						BackgroundColor='#FFFFFF'
 						Name='endor'
@@ -2377,6 +2418,19 @@
 					Size='30,29'
 					Style='/Styles.New.buttons.planetLrg.style'
 				></Button>
+        <Button
+					BackgroundColor='#FFFFFF'
+					Icon='/Styles.Icon.map.galactic_gcw_rebel'
+					IconAlignment='Center'
+					Location='390,273'
+					MaximumSize='800,600'
+					Name='gcwDxun'
+					PackLocation='cpc,cpc'
+					PackSize='p,p'
+					ScrollExtent='30,29'
+					Size='30,29'
+					Style='/Styles.New.buttons.planetLrg.style'
+				></Button>
 				<Button
 					BackgroundColor='#FFFFFF'
 					Icon='/Styles.Icon.map.galactic_gcw_imperial'
@@ -2673,6 +2727,38 @@
 					Size='83,82'
 					Style='/Styles.New.buttons.planetLrg.style'
 				></Button>
+        <CuiWidget3dObjectListViewer
+					AutoZoomOutOnly='true'
+					CameraForceTarget='true'
+					camerayaw='90'
+					dragyawok='false'
+					fieldofview='60'
+					FitDistanceFactor='1'
+					GetsInput='false'
+					lightambientcolor='#222222'
+					lightcolor='#ffffff'
+					Location='365,241'
+					Name='vDxun'
+					objectdatasource='data.Dxun'
+					PackLocation='cpc,cpc'
+					PackSize='p,p'
+					RotateSpeed='0.3'
+					RStyleDefault='rs_default'
+					ScrollExtent='57,54'
+					Size='57,54'
+					Visible='false'
+				/>
+				<Button
+					BackgroundColor='#FFFFFF'
+					Location='365,244'
+					MaximumSize='800,600'
+					Name='buttonDxun'
+					PackLocation='cpc,cpc'
+					PackSize='p,p'
+					ScrollExtent='67,64'
+					Size='67,64'
+					Style='/Styles.New.buttons.planetLrg.style'
+				></Button>
 				<CuiWidget3dObjectListViewer
 					AutoZoomOutOnly='true'
 					CameraForceTarget='true'
@@ -2923,6 +3009,10 @@
 						/>
 						<Data
 							Name='Dathomir'
+							Target='target.profs'
+						/>
+            <Data
+							Name='Dxun'
 							Target='target.profs'
 						/>
 						<Data
